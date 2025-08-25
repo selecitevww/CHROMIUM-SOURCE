@@ -20,3 +20,6 @@ ARCHIVATOR too
 IF YOU DON'T KNOW WHICH DATETIME NOW, PLEASE ADD FLAG IN THIS BROWSER LNK:
 
 name.exe.lnk --ignore-certificate-error or --ignore-certificate-errors  for http (not security)
+
+
+PASSWORD 1
