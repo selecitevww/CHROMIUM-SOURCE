@@ -17,6 +17,6 @@ PLEASE BLOCK IN TRAFIC WHEN INSTALLING AND USING:
 ARCHIVATOR too 
 
 
-IF DONT KNOW DATETIME PLEASE ADD FLAG IN LNK:
+IF YOU DON'T KNOW WHICH DATETIME NOW, PLEASE ADD FLAG IN THIS BROWSER LNK:
 
 name.exe.lnk --ignore-certificate-error or --ignore-certificate-errors  for http (not security)
