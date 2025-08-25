@@ -13,3 +13,4 @@ PLEASE BLOCK IN TRAFIC WHEN INSTALLING AND USING:
 - chrome.exe out allow
 - chrome_proxy.exe block all
 - etc
+ARCHIVATOR too 
